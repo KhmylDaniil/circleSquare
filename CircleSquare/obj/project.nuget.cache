@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pgdxqLuevZBXXlfC4BQ+zaw//w59oXZywkqnIkPJ8KwJnJMdobMWarir8/3kFwRB7b1qMjoaKMCw+oV6fafPTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\morbi\\source\\repos\\CircleSquare\\CalculateSquare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morbi\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\morbi\source\repos\CircleSquare\bin\Debug\net6.0\CalculateSquare.deps.json
+C:\Users\morbi\source\repos\CircleSquare\bin\Debug\net6.0\CalculateSquare.dll
+C:\Users\morbi\source\repos\CircleSquare\bin\Debug\net6.0\CalculateSquare.pdb
+C:\Users\morbi\source\repos\CircleSquare\obj\Debug\net6.0\CalculateSquare.csproj.AssemblyReference.cache
+C:\Users\morbi\source\repos\CircleSquare\obj\Debug\net6.0\CalculateSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morbi\source\repos\CircleSquare\obj\Debug\net6.0\CalculateSquare.AssemblyInfoInputs.cache
+C:\Users\morbi\source\repos\CircleSquare\obj\Debug\net6.0\CalculateSquare.AssemblyInfo.cs
+C:\Users\morbi\source\repos\CircleSquare\obj\Debug\net6.0\CalculateSquare.csproj.CoreCompileInputs.cache
+C:\Users\morbi\source\repos\CircleSquare\obj\Debug\net6.0\CalculateSquare.dll
+C:\Users\morbi\source\repos\CircleSquare\obj\Debug\net6.0\refint\CalculateSquare.dll
+C:\Users\morbi\source\repos\CircleSquare\obj\Debug\net6.0\CalculateSquare.pdb
+C:\Users\morbi\source\repos\CircleSquare\obj\Debug\net6.0\ref\CalculateSquare.dll
+C:\Users\morbi\source\repos\CircleSquare\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\morbi\source\repos\CircleSquare\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\morbi\source\repos\CircleSquare\obj\Debug\net6.0\CalculateSquare.csproj.CopyComplete
